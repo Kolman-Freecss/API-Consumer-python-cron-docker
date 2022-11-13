@@ -9,6 +9,7 @@ Requirements
 
 - Python version v3.10
 - python-cron lib
+- requests lib
 - Docker
 
 
